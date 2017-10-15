@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.kevinsawicki:http-request:6.0" type="repository">
+    <properties maven-id="com.github.kevinsawicki:http-request:6.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kevinsawicki/http-request/6.0/http-request-6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kevinsawicki/http-request/6.0/http-request-6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
